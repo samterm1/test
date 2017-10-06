@@ -1,0 +1,43 @@
+﻿* {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 0;
+}
+h2 {
+	font-size: 18px;
+	color: blue;
+}
+
+.underline {
+	clear: both;
+	margin: 0 0 10px 0;
+	border-bottom: 2px solid DarkCyan;
+}
+
+.button {
+	width: 80px;
+
+}
+.textblock {
+	border: 2px solid DarkCyan;
+	margin: 10px auto;
+	padding: 10px;
+}
+.framediv {
+	width: 768px;
+	height: 600px;
+	overflow: auto;
+}
+.textblockbutton {
+	text-align: right;
+}
+.commentblock {
+	border: 2px solid DarkCyan;
+	margin: 10px 0px;
+	padding: 10px;
+	max-width: 400px;
+}
+.view {
+	display: block;
+	float: left;
+}
